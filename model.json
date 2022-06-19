@@ -1,0 +1,41 @@
+{
+    "id": "2",
+    "self": "https://your-domain.atlassian.net/rest/agile/1.0/board/92/issue/10001",
+    "key": "HSP-1",
+    "fields": {
+        "flagged": true,
+        "sprint": {
+        },
+        "description": "example bug report 2",
+        "project": {
+        },
+        "updated": false,
+        "timetracking": {
+        },
+        "myownFields" :{
+        "status": "Done",
+        "assignee": {
+            "name": "John Doe",
+            "displayName": "John Doe",
+            "active": true,
+            "timeZone": "Europe/London"
+        },
+        "priority": {
+            "id": "3",
+            "name": "Major",
+            "iconUrl": "https://your-domain.atlassian.net/images/icons/priorities/major.svg"
+        },
+        "issuetype": {
+            "id": "1",
+            "name": "Bug",
+            "subtask": false,
+            "iconUrl": "https://your-domain.atlassian.net/images/icons/issuetypes/bug.svg"
+        },
+        "labels": [
+            "priority"
+        ],
+        "createdDate": "2022-06-02T00:00:00.000+0000",
+        "resolutionDate": "2022-06-05T00:00:00.000+0000"
+        }
+    }
+}
